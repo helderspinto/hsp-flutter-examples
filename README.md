@@ -4,7 +4,7 @@ This project demonstrates how to use various assemblies and components simply an
 
 ## [HSP] Helder Rodrigo Pinto
 
-[HSP] Helder Rodrigo Pinto
-[DEI.ISEP] Computer Engineering Department
-[email] hsp@isep.ipp.pt
-[CiênciaID] https://www.cienciavitae.pt/portal/en/5517-B4EC-D715
+    [HSP] Helder Rodrigo Pinto
+    [DEI.ISEP] Computer Engineering Department
+    [email] hsp@isep.ipp.pt
+    [CiênciaID] https://www.cienciavitae.pt/portal/en/5517-B4EC-D715
