@@ -1,6 +1,6 @@
 # Flutter Examples
 
-This project demonstrates how to use various assemblies and components simply and without specific customization.
+This project demonstrates how to use various assets and components simply and without specific customization.
 
 ## [HSP] Helder Rodrigo Pinto
 
