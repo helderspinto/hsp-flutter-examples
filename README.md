@@ -1,6 +1,6 @@
 # Flutter Examples
 
-This project demonstrates how to use various widgets and components simply and without specific customization.
+This project demonstrates how to use various widgets and components without specific customization.
 
 ## [HSP] Helder Rodrigo Pinto
 
